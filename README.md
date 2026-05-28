@@ -66,9 +66,9 @@ AI-driven pricing simulation project using data-based decision logic.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mamta-Arali&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamta-Arali&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -78,7 +78,7 @@ AI-driven pricing simulation project using data-based decision logic.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Mamta-Arali&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -88,7 +88,7 @@ AI-driven pricing simulation project using data-based decision logic.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mamta-Arali&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -98,7 +98,7 @@ AI-driven pricing simulation project using data-based decision logic.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamta-Arali&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -108,7 +108,7 @@ AI-driven pricing simulation project using data-based decision logic.
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Mamta-Arali/Mamta-Arali/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -144,6 +144,6 @@ AI-driven pricing simulation project using data-based decision logic.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Mamta-Arali;&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
