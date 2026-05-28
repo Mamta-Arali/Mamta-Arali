@@ -62,31 +62,11 @@ AI-driven pricing simulation project using data-based decision logic.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mamta-Arali&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamta-Arali&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</div>
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Mamta-Arali&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mamta-Arali&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
